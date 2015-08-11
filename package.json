@@ -1,0 +1,25 @@
+{
+  "name": "magician",
+  "version": "0.0.1",
+  "description": "Soft/Hard implementation for opsgenie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinchogob/magician"
+  },
+  "author": "Martin Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinchogob/magician/issues"
+  },
+  "homepage": "https://github.com/tinchogob/magician",
+  "dependencies": {
+    "express": "*",
+    "johnny-five": "*",
+    "moment": "^2.10.6",
+    "request": "*"
+  }
+}
